@@ -1,0 +1,52 @@
+{
+  "chefs": [
+    {
+      "id": 1,
+      "name": "Alice Smith",
+      "picture": "https://img.freepik.com/fotos-kostenlos/portraet-des-laechelnden-kochs-in-der-uniform_329181-675.jpg?size=626&ext=jpg",
+      "years_experience": 10,
+      "num_recipes": 150,
+      "likes": 2500
+    },
+    {
+      "id": 2,
+      "name": "Bob Johnson",
+      "picture": "https://img.freepik.com/fotos-kostenlos/aufnahme-eines-professionellen-alten-kochs-in-uniform-mit-kuechenspatel-und-zange_613910-17564.jpg?size=626&ext=jpg",
+      "years_experience": 5,
+      "num_recipes": 75,
+      "likes": 1200
+    },
+    {
+      "id": 3,
+      "name": "Catherine Lee",
+      "picture": "https://img.freepik.com/fotos-kostenlos/kleinunternehmer-cafe-und-personalkonzept-huebscher-und-selbstbewusster-barista-show-off-cool-aussehend-und-auf-sich-selbst-zeigend-prahlende-kellnererfahrung-und-faehigkeit-weisser-hintergrund_1258-59192.jpg?size=626&ext=jpg",
+      "years_experience": 12,
+      "num_recipes": 200,
+      "likes": 3000
+    },
+    {
+      "id": 4,
+      "name": "David Kim",
+      "picture": "https://img.freepik.com/fotos-kostenlos/gluecklicher-jungekoch-im-einheitlichen-haltenen-salat_171337-5342.jpg?size=626&ext=jpg",
+      "years_experience": 8,
+      "num_recipes": 100,
+      "likes": 1800
+    },
+    {
+      "id": 5,
+      "name": "Sophie Müller",
+      "picture": "https://img.freepik.com/fotos-kostenlos/portraet-eines-huebschen-maennlichen-chefs-kleidete-in-der-uniform-an_171337-5352.jpg?size=626&ext=jpg",
+      "years_experience": 3,
+      "num_recipes": 50,
+      "likes": 500
+    },
+    {
+      "id": 6,
+      "name": "Johannes Schneider",
+      "picture": "https://img.freepik.com/fotos-kostenlos/portraet-eines-gluecklichen-maennlichen-chefs-kleidete-in-der-uniform-an_171337-5354.jpg?size=626&ext=jpg",
+      "years_experience": 6,
+      "num_recipes": 80,
+      "likes": 1500
+    }
+  ]
+}

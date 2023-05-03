@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Smith",
+    "picture": "https://example.com/chef1.jpg",
+    "years_experience": 10,
+    "num_recipes": 150,
+    "likes": 2500,
+    "bio": "Alice Smith is a renowned chef with a passion for creating delicious and nutritious dishes. With over 10 years of experience in the culinary industry, Alice has mastered the art of German cuisine, using only the freshest ingredients to create unique and flavorful dishes that are sure to please any palate.",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Sauerbraten",
+        "ingredients": ["beef roast", "red wine", "vinegar", "onion", "carrot"],
+        "method": "Marinate the beef roast in red wine, vinegar, onion, and carrot for at least three days. Then brown the meat in a Dutch oven, add the marinade, and cook on low heat for several hours until tender.",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Käsespätzle",
+        "ingredients": ["spätzle", "cheese", "onion", "butter", "salt"],
+        "method": "Cook the spätzle according to package instructions. Then layer it in a baking dish with grated cheese, sautéed onions, and melted butter. Bake in the oven until the cheese is melted and bubbly.",
+        "rating": 4.2
+      },
+      {
+        "id": 3,
+        "name": "Schweinshaxe",
+        "ingredients": [
+          "pork knuckle",
+          "salt",
+          "caraway seeds",
+          "garlic",
+          "beer"
+        ],
+        "method": "Rub the pork knuckle with salt, caraway seeds, and garlic. Then roast in the oven at high temperature for a few hours until crispy. Serve with a cold beer.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bob Johnson",
+    "picture": "https://example.com/chef2.jpg",
+    "years_experience": 5,
+    "num_recipes": 75,
+    "likes": 1200,
+    "bio": "Bob Johnson is a talented chef with a knack for creating flavorful dishes that are both healthy and satisfying. With over 5 years of experience in the culinary industry, Bob has honed his skills in the kitchen and developed a passion for German cuisine.",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Rinderrouladen",
+        "ingredients": [
+          "beef round steak",
+          "mustard",
+          "bacon",
+          "onion",
+          "pickle"
+        ],
+        "method": "Spread mustard on each beef round steak, then top with a strip of bacon, sautéed onions, and a slice of pickle. Roll up the steak and secure with toothpicks. Then brown the rolls in a Dutch oven and simmer in beef broth until tender.",
+        "rating": 4.6
+      },
+      {
+        "id": 2,
+        "name": "Kartoffelpuffer",
+        "ingredients": ["potatoes", "onion", "egg", "flour", "salt"],
+        "method": "Grate the potatoes and onion, then mix in egg, flour, and salt. Form into patties and fry in hot oil until crispy. Serve hot with applesauce or sour cream.",
+        "rating": 4.3
+      },
+      {
+        "id": 3,
+        "name": "Rote Grütze",
+        "ingredients": [
+          "red berries",
+          "sugar",
+          "cornstarch",
+          "water",
+          "vanilla"
+        ],
+        "method": "Combine the red berries with sugar and a small amount of water in a pot, and bring to a simmer. Mix cornstarch with a bit of water and add to the pot to thicken the mixture. Serve hot or cold with a dollop of whipped cream and a sprinkle of vanilla.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Catherine Lee",
+    "picture": "https://example.com/chef3.jpg",
+    "years_experience": 8,
+    "num_recipes": 120,
+    "likes": 1800,
+    "bio": "Catherine Lee is a creative and innovative chef who loves to experiment with different ingredients and flavors. With 8 years of experience in the culinary industry, Catherine has become a master of German cuisine, creating dishes that are both traditional and modern.",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Königsberger Klopse",
+        "ingredients": [
+          "ground beef",
+          "bread crumbs",
+          "onion",
+          "egg",
+          "anchovy"
+        ],
+        "method": "Mix ground beef with bread crumbs, onion, egg, and chopped anchovy. Form into meatballs and simmer in broth until cooked through. Serve with a creamy caper sauce.",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Zwiebelkuchen",
+        "ingredients": ["pie crust", "bacon", "onion", "sour cream", "egg"],
+        "method": "Fry bacon and onion until crispy, then mix with sour cream and egg. Pour into a pie crust and bake in the oven until set and golden brown.",
+        "rating": 4.2
+      },
+      {
+        "id": 3,
+        "name": "Lebkuchen",
+        "ingredients": ["flour", "honey", "sugar", "eggs", "spices"],
+        "method": "Mix flour, honey, sugar, eggs, and spices to form a dough. Roll out and cut into shapes, then bake in the oven until golden brown. Serve as a sweet treat or with coffee.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "David Kim",
+    "picture": "https://example.com/chef4.jpg",
+    "years_experience": 12,
+    "num_recipes": 200,
+    "likes": 3000,
+    "bio": "David Kim is a talented chef with over 12 years of experience in the culinary industry. His passion for German cuisine is reflected in his creative and flavorful dishes, which combine traditional ingredients with modern techniques.",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Kasseler Rippchen",
+        "ingredients": [
+          "pork chops",
+          "sauerkraut",
+          "beer",
+          "caraway seeds",
+          "onion"
+        ],
+        "method": "Brown pork chops in a Dutch oven, then add sauerkraut, beer, caraway seeds, and onion. Simmer until tender and flavorful.",
+        "rating": 4.7
+      },
+      {
+        "id": 2,
+        "name": "Apfelstrudel",
+        "ingredients": [
+          "phyllo dough",
+          "apples",
+          "sugar",
+          "cinnamon",
+          "raisins"
+        ],
+        "method": "Thinly slice apples and mix with sugar, cinnamon, and raisins. Lay phyllo dough out flat and spread apple mixture over it, then roll into a strudel shape. Bake until golden brown and crispy.",
+        "rating": 4.5
+      },
+      {
+        "id": 3,
+        "name": "Goulash",
+        "ingredients": ["beef", "onion", "bell pepper", "paprika", "carrots"],
+        "method": "Brown beef in a Dutch oven, then add onion, bell pepper, paprika, and carrots. Add enough water to cover and simmer until meat is tender and vegetables are cooked through. Serve with bread or potatoes.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Sophie Müller",
+    "picture": "https://example.com/chef5.jpg",
+    "years_experience": 6,
+    "num_recipes": 90,
+    "likes": 1500,
+    "bio": "Sophie Müller is a passionate and dedicated chef with a talent for creating delicious German dishes. With 6 years of experience in the culinary industry, Sophie has honed her skills and developed a unique style that blends traditional flavors with modern techniques.",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Maultaschen",
+        "ingredients": [
+          "ground pork",
+          "spinach",
+          "onion",
+          "bread crumbs",
+          "nutmeg"
+        ],
+        "method": "Mix ground pork with spinach, onion, bread crumbs, and nutmeg. Form into small dumplings and simmer in broth until cooked through. Serve with potato salad or sauerkraut.",
+        "rating": 4.6
+      },
+      {
+        "id": 2,
+        "name": "Kartoffelpuffer",
+        "ingredients": ["potatoes", "onion", "egg", "flour", "salt"],
+        "method": "Grate potatoes and onion, then mix with egg, flour, and salt to form a batter. Fry in hot oil until crispy and golden brown. Serve with applesauce or sour cream.",
+        "rating": 4.4
+      },
+      {
+        "id": 3,
+        "name": "Schwarzwälder Kirschtorte",
+        "ingredients": ["flour", "sugar", "eggs", "cocoa powder", "cherries"],
+        "method": "Mix flour, sugar, eggs, and cocoa powder to form a cake batter. Bake in the oven and top with cherries and whipped cream.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Johannes Schneider",
+    "picture": "https://example.com/chef6.jpg",
+    "years_experience": 10,
+    "num_recipes": 150,
+    "likes": 2500,
+    "bio": "Johannes Schneider is a talented and experienced chef with a passion for German cuisine. With 10 years of experience in the culinary industry, Johannes has honed his skills and developed a unique style that combines traditional flavors with modern techniques.",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Schnitzel",
+        "ingredients": ["pork", "flour", "egg", "bread crumbs", "oil"],
+        "method": "Coat pork in flour, dip in beaten egg, and coat with bread crumbs. Fry in hot oil until golden brown and crispy. Serve with potato salad or sauerkraut.",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Rote Grütze",
+        "ingredients": [
+          "red berries",
+          "sugar",
+          "cornstarch",
+          "vanilla",
+          "whipped cream"
+        ],
+        "method": "Simmer red berries with sugar and vanilla, then thicken with cornstarch to form a pudding-like texture. Chill and serve with whipped cream.",
+        "rating": 4.6
+      },
+      {
+        "id": 3,
+        "name": "Königsberger Klopse",
+        "ingredients": [
+          "ground beef",
+          "onion",
+          "bread crumbs",
+          "egg",
+          "anchovy"
+        ],
+        "method": "Mix ground beef with onion, bread crumbs, egg, and anchovy to form small meatballs. Simmer in broth until cooked through. Serve with boiled potatoes and caper sauce.",
+        "rating": 4.4
+      }
+    ]
+  }
+]
