@@ -9,21 +9,21 @@
     "bio": "Alice Smith is a renowned chef with a passion for creating delicious and nutritious dishes. With over 10 years of experience in the culinary industry, Alice has mastered the art of German cuisine, using only the freshest ingredients to create unique and flavorful dishes that are sure to please any palate.",
     "recipes": [
       {
-        "id": 1,
+        "recipes_id": 1,
         "name": "Sauerbraten",
         "ingredients": ["beef roast", "red wine", "vinegar", "onion", "carrot"],
         "method": "Marinate the beef roast in red wine, vinegar, onion, and carrot for at least three days. Then brown the meat in a Dutch oven, add the marinade, and cook on low heat for several hours until tender.",
         "rating": 4.5
       },
       {
-        "id": 2,
+        "recipes_id": 2,
         "name": "Käsespätzle",
         "ingredients": ["spätzle", "cheese", "onion", "butter", "salt"],
         "method": "Cook the spätzle according to package instructions. Then layer it in a baking dish with grated cheese, sautéed onions, and melted butter. Bake in the oven until the cheese is melted and bubbly.",
         "rating": 4.2
       },
       {
-        "id": 3,
+        "recipes_id": 3,
         "name": "Schweinshaxe",
         "ingredients": [
           "pork knuckle",
@@ -47,7 +47,7 @@
     "bio": "Bob Johnson is a talented chef with a knack for creating flavorful dishes that are both healthy and satisfying. With over 5 years of experience in the culinary industry, Bob has honed his skills in the kitchen and developed a passion for German cuisine.",
     "recipes": [
       {
-        "id": 1,
+        "recipes_id": 1,
         "name": "Rinderrouladen",
         "ingredients": [
           "beef round steak",
@@ -60,14 +60,14 @@
         "rating": 4.6
       },
       {
-        "id": 2,
+        "recipes_id": 2,
         "name": "Kartoffelpuffer",
         "ingredients": ["potatoes", "onion", "egg", "flour", "salt"],
         "method": "Grate the potatoes and onion, then mix in egg, flour, and salt. Form into patties and fry in hot oil until crispy. Serve hot with applesauce or sour cream.",
         "rating": 4.3
       },
       {
-        "id": 3,
+        "recipes_id": 3,
         "name": "Rote Grütze",
         "ingredients": [
           "red berries",
@@ -85,13 +85,13 @@
     "id": 3,
     "name": "Catherine Lee",
     "picture": "https://example.com/chef3.jpg",
-    "years_experience": 8,
-    "num_recipes": 120,
+    "years_experience": 12,
+    "num_recipes": 20,
     "likes": 1800,
     "bio": "Catherine Lee is a creative and innovative chef who loves to experiment with different ingredients and flavors. With 8 years of experience in the culinary industry, Catherine has become a master of German cuisine, creating dishes that are both traditional and modern.",
     "recipes": [
       {
-        "id": 1,
+        "recipes_id": 1,
         "name": "Königsberger Klopse",
         "ingredients": [
           "ground beef",
@@ -104,14 +104,14 @@
         "rating": 4.5
       },
       {
-        "id": 2,
+        "recipes_id": 2,
         "name": "Zwiebelkuchen",
         "ingredients": ["pie crust", "bacon", "onion", "sour cream", "egg"],
         "method": "Fry bacon and onion until crispy, then mix with sour cream and egg. Pour into a pie crust and bake in the oven until set and golden brown.",
         "rating": 4.2
       },
       {
-        "id": 3,
+        "recipes_id": 3,
         "name": "Lebkuchen",
         "ingredients": ["flour", "honey", "sugar", "eggs", "spices"],
         "method": "Mix flour, honey, sugar, eggs, and spices to form a dough. Roll out and cut into shapes, then bake in the oven until golden brown. Serve as a sweet treat or with coffee.",
@@ -129,7 +129,7 @@
     "bio": "David Kim is a talented chef with over 12 years of experience in the culinary industry. His passion for German cuisine is reflected in his creative and flavorful dishes, which combine traditional ingredients with modern techniques.",
     "recipes": [
       {
-        "id": 1,
+        "recipes_id": 1,
         "name": "Kasseler Rippchen",
         "ingredients": [
           "pork chops",
@@ -142,7 +142,7 @@
         "rating": 4.7
       },
       {
-        "id": 2,
+        "recipes_id": 2,
         "name": "Apfelstrudel",
         "ingredients": [
           "phyllo dough",
@@ -155,7 +155,7 @@
         "rating": 4.5
       },
       {
-        "id": 3,
+        "recipes_id": 3,
         "name": "Goulash",
         "ingredients": ["beef", "onion", "bell pepper", "paprika", "carrots"],
         "method": "Brown beef in a Dutch oven, then add onion, bell pepper, paprika, and carrots. Add enough water to cover and simmer until meat is tender and vegetables are cooked through. Serve with bread or potatoes.",
@@ -173,7 +173,7 @@
     "bio": "Sophie Müller is a passionate and dedicated chef with a talent for creating delicious German dishes. With 6 years of experience in the culinary industry, Sophie has honed her skills and developed a unique style that blends traditional flavors with modern techniques.",
     "recipes": [
       {
-        "id": 1,
+        "recipes_id": 1,
         "name": "Maultaschen",
         "ingredients": [
           "ground pork",
@@ -186,14 +186,14 @@
         "rating": 4.6
       },
       {
-        "id": 2,
+        "recipes_id": 2,
         "name": "Kartoffelpuffer",
         "ingredients": ["potatoes", "onion", "egg", "flour", "salt"],
         "method": "Grate potatoes and onion, then mix with egg, flour, and salt to form a batter. Fry in hot oil until crispy and golden brown. Serve with applesauce or sour cream.",
         "rating": 4.4
       },
       {
-        "id": 3,
+        "recipes_id": 3,
         "name": "Schwarzwälder Kirschtorte",
         "ingredients": ["flour", "sugar", "eggs", "cocoa powder", "cherries"],
         "method": "Mix flour, sugar, eggs, and cocoa powder to form a cake batter. Bake in the oven and top with cherries and whipped cream.",
@@ -211,14 +211,14 @@
     "bio": "Johannes Schneider is a talented and experienced chef with a passion for German cuisine. With 10 years of experience in the culinary industry, Johannes has honed his skills and developed a unique style that combines traditional flavors with modern techniques.",
     "recipes": [
       {
-        "id": 1,
+        "recipes_id": 1,
         "name": "Schnitzel",
         "ingredients": ["pork", "flour", "egg", "bread crumbs", "oil"],
         "method": "Coat pork in flour, dip in beaten egg, and coat with bread crumbs. Fry in hot oil until golden brown and crispy. Serve with potato salad or sauerkraut.",
         "rating": 4.5
       },
       {
-        "id": 2,
+        "recipes_id": 2,
         "name": "Rote Grütze",
         "ingredients": [
           "red berries",
@@ -231,7 +231,7 @@
         "rating": 4.6
       },
       {
-        "id": 3,
+        "recipes_id": 3,
         "name": "Königsberger Klopse",
         "ingredients": [
           "ground beef",

@@ -1,10 +1,11 @@
 const express = require('express');
 const app = express();
-const port = 5000;
+const port = process.env.PORT || 5000;
 const cors = require('cors');
 app.use(cors());
 
 const chefs = require('./data/chefs.json');
+const chefDetails = require('./data/chefDetails.json');
 
 // app.get('/', (req, res) => {
 //   res.send('Server is running successfully');
@@ -12,6 +13,19 @@ const chefs = require('./data/chefs.json');
 
 app.get('/', (req, res) => {
   res.send(chefs);
+});
+
+app.get('/recipes', (req, res) => {
+  res.send(chefDetails);
+  // console.log(chefDetails.id);
+});
+app.get('/recipes/:id', (req, res) => {
+  const id = parseInt(req.params.id);
+  const found = chefDetails.find((details) => details.id === id);
+
+  // chefDetails.map((chefss) => console.log(chefss.id));
+  res.send(found);
+  // console.log(id);
 });
 
 app.listen(port, () => {
