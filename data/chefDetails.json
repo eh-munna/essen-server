@@ -86,8 +86,8 @@
     "name": "Catherine Lee",
     "picture": "https://example.com/chef3.jpg",
     "years_experience": 12,
-    "num_recipes": 20,
-    "likes": 1800,
+    "num_recipes": 200,
+    "likes": 3000,
     "bio": "Catherine Lee is a creative and innovative chef who loves to experiment with different ingredients and flavors. With 8 years of experience in the culinary industry, Catherine has become a master of German cuisine, creating dishes that are both traditional and modern.",
     "recipes": [
       {
@@ -123,9 +123,9 @@
     "id": 4,
     "name": "David Kim",
     "picture": "https://example.com/chef4.jpg",
-    "years_experience": 12,
-    "num_recipes": 200,
-    "likes": 3000,
+    "years_experience": 8,
+    "num_recipes": 100,
+    "likes": 1800,
     "bio": "David Kim is a talented chef with over 12 years of experience in the culinary industry. His passion for German cuisine is reflected in his creative and flavorful dishes, which combine traditional ingredients with modern techniques.",
     "recipes": [
       {
@@ -167,9 +167,9 @@
     "id": 5,
     "name": "Sophie Müller",
     "picture": "https://example.com/chef5.jpg",
-    "years_experience": 6,
-    "num_recipes": 90,
-    "likes": 1500,
+    "years_experience": 3,
+    "num_recipes": 50,
+    "likes": 500,
     "bio": "Sophie Müller is a passionate and dedicated chef with a talent for creating delicious German dishes. With 6 years of experience in the culinary industry, Sophie has honed her skills and developed a unique style that blends traditional flavors with modern techniques.",
     "recipes": [
       {
@@ -205,9 +205,9 @@
     "id": 6,
     "name": "Johannes Schneider",
     "picture": "https://example.com/chef6.jpg",
-    "years_experience": 10,
-    "num_recipes": 150,
-    "likes": 2500,
+    "years_experience": 6,
+    "num_recipes": 80,
+    "likes": 1500,
     "bio": "Johannes Schneider is a talented and experienced chef with a passion for German cuisine. With 10 years of experience in the culinary industry, Johannes has honed his skills and developed a unique style that combines traditional flavors with modern techniques.",
     "recipes": [
       {
